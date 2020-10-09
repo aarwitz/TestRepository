@@ -1,0 +1,64 @@
+
+.top {
+  padding-right: 20px;
+  padding-top: 10px;
+  text-align: right;
+  padding-bottom: 30px;
+}
+
+.logo {
+  padding-bottom: 25px;
+}
+
+input {
+  width: 540px;
+  height: 36px;
+  border-radius: 25px;
+  padding: 3px;
+  padding-left:23px;
+  border: 1px solid #eaeaea;
+}
+
+input:focus, textarea:focus {
+    outline: none;
+}
+
+.form{
+    padding-bottom: 25px;
+}
+
+button{
+  width:125px;
+  height:40px;
+  border-radius: 6px;
+  border: none;
+  color: gray;
+}
+
+
+input:hover {
+  -webkit-box-shadow: 0px 0px 15px -3px #ccc;
+  border: 1px solid #1C00ff00;
+}
+
+a:link{
+  text-decoration: none;
+}
+
+#link {
+  color: black;
+}
+
+#link:hover {
+  text-decoration: underline;
+}
+
+/* #image:hover {
+  text-decoration: underline;
+} */
+
+
+.button:hover {
+  color: black;
+  border: 1px solid #d0d0d0;
+}
